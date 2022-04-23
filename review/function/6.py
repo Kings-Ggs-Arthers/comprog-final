@@ -9,3 +9,6 @@ def fizz_buzz(input) :
     
 
 print(fizz_buzz(7))
+
+
+print("Hello world")

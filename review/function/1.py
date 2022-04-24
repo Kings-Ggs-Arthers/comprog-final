@@ -17,3 +17,4 @@ def great2(name):
 
 message = great2("Tussu")
 print(message)
+prinit('Hello world')
